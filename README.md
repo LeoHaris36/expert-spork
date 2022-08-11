@@ -6,7 +6,7 @@ Der Feuersalamander ist eine europäische Amphibienart aus der Familie der Echte
 
 Eine besondere Vorliebe besitzen Feuersalamander für in Waldnähe gelegene, schattenreiche Friedhofsanlagen mit Altbaumbestand; sie bieten den Tieren bei günstiger Konstellation nahezu ideale Lebensmöglichkeiten:
 
-- eine räumliche Verzahnung mit dem nahen Wald
+- eine räumliche Verzahnung mit dem nahen Wald[^1]
 - Strukturvielfalt durch Grabhügel, Grabsteine, Saumbiotope aus Hecken und Gebüschen, alte Laubbäume mit Efeubewuchs im Traufbereich
 - hohe Bodenfeuchtigkeit durch bewässerte Gräber
 - Stellen zum Wasserzapfen oder -schöpfen, gelegentlich finden sich auch gefasste Quellbecken in Bodennähe
@@ -17,3 +17,4 @@ Der **Feuersalamander** ist ein tolles Tier, klicke [hier](https://de.wikipedia.
 [![image](https://user-images.githubusercontent.com/111046405/184094133-8298951b-b565-46ba-a9e3-5290ef0019d2.png)](http://www.karch.ch/karch/Feuersalamander)
 
 
+[^1]: Ein Ort mit vielen Bäumen
