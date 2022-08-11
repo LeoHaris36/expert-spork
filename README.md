@@ -2,9 +2,9 @@
 
 Der Feuersalamander ist eine europäische Amphibienart aus der Familie der Echten Salamander. Die Spezies wurde erstmals 1758 von dem schwedischen Naturforscher Carl von Linné beschrieben.
 
-Um einen Text **Fett** darzustellen tippen sie \**Fett\**
+Um einen Text **Fett** darzustellen tippen sie `**Fett**`
 
-Um einen Text als `code` darzustellen tippen sie \`code\`
+Um einen Text als `code` darzustellen tippen sie ``code``
 
 ## Wo sie leben
 
