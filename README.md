@@ -4,7 +4,7 @@ Der Feuersalamander ist eine europäische Amphibienart aus der Familie der Echte
 
 ## Wo sie leben
 
-Eine besondere Vorliebe besitzen Feuersalamander für in Waldnähe gelegene, schattenreiche Friedhofsanlagen mit Altbaumbestand; sie bieten den Tieren bei günstiger Konstellation nahezu ideale Lebensmöglichkeiten:
+Eine besondere Vorliebe besitzen \*Feuersalamander\* für in Waldnähe gelegene, schattenreiche Friedhofsanlagen mit Altbaumbestand; sie bieten den Tieren bei günstiger Konstellation nahezu ideale Lebensmöglichkeiten:
 
 - eine räumliche Verzahnung mit dem nahen Wald[^1]
 - Strukturvielfalt durch Grabhügel, Grabsteine, Saumbiotope aus Hecken und Gebüschen, alte Laubbäume mit Efeubewuchs im Traufbereich
@@ -13,6 +13,7 @@ Eine besondere Vorliebe besitzen Feuersalamander für in Waldnähe gelegene, sch
 - Keine Störungen durch Menschen während der nächtlichen Aktivitätsphase
 
 Der **Feuersalamander** ist ein tolles Tier, klicke [hier](https://de.wikipedia.org/wiki/Feuersalamander) um mehr zu erfahren. Es ist übrigens auch mein *Lieblingstier*, ~~zusammen mit dem Chamäleon.~~
+<!-- Versteckt shhhhh -->
 
 [![image](https://user-images.githubusercontent.com/111046405/184094133-8298951b-b565-46ba-a9e3-5290ef0019d2.png)](http://www.karch.ch/karch/Feuersalamander)
 
