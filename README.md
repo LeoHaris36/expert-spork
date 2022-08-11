@@ -3,5 +3,6 @@
 
 Der **Feuersalamander** ist ein tolles Tier, klicke [hier](https://de.wikipedia.org/wiki/Feuersalamander) um mehr zu erfahren. Es ist übrigens auch mein *Lieblingstier*.
 
-![Feuersalamanderbild](https://user-images.githubusercontent.com/111046405/184093178-6565bd62-ff28-43c0-b2e0-a783813e8793.png)
+[![image](https://user-images.githubusercontent.com/111046405/184094133-8298951b-b565-46ba-a9e3-5290ef0019d2.png)](http://www.karch.ch/karch/Feuersalamander)
+
 
