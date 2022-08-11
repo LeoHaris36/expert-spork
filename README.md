@@ -4,7 +4,8 @@ Der Feuersalamander ist eine europäische Amphibienart aus der Familie der Echte
 
 Um einen Text **Fett** darzustellen tippen sie `**Fett**`
 
-Um einen Text als `code` darzustellen tippen sie ``code``
+Um einen Text als `code` darzustellen tippen sie ``\`Code`<!---->``  <----------- Meine Versuche
+`` `Code` ``  <--------- richtig
 
 ## Wo sie leben
 
